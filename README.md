@@ -16,3 +16,4 @@ This Java program implements a User-Based Collaborative Filtering Recommendation
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/1a75f72d-2fa6-4ae3-ad6c-5dd544186f42)
